@@ -3,6 +3,7 @@ import {Container} from "react-bootstrap";
 import Row from "react-bootstrap/Row";
 import Col from "react-bootstrap/Col";
 import Form from "react-bootstrap/Form";
+import Nav from "react-bootstrap/Nav"
 
 const initialState = {
   fermVol: 10,
@@ -72,6 +73,9 @@ const YeastCalculator = () => {
   useEffect(calc,[state]);
   return (
       <Container style={{marginTop: "30px"}} id="yeast-calc">
+        <h3>Yeast Slurry Pitch Calculator</h3>
+        <p>Use the table below while performing yeast cell counts of your slurry before pitch.
+        </p>
         <Row>
           <Col className="input">Yellow Cells are inputs</Col>
           <Col className="output">Blue Cells are calculated</Col>
@@ -187,6 +191,8 @@ const YeastCalculator = () => {
           </Col>
           <InfoCell title="% Viability (Do not pitch under 90%)" value={output.viability}/>
         </Row>
+        <span>Feel free to contribute</span>
+              <Nav.Link href="https://www.github.com/foestauf/yeast-calc">Github</Nav.Link>
       </Container>
   )
 }
