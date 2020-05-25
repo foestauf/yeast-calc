@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/yeast-calc/static/css/main.ab70fcf0.chunk.css",
-    "main.js": "/yeast-calc/static/js/main.747cd2a9.chunk.js",
-    "main.js.map": "/yeast-calc/static/js/main.747cd2a9.chunk.js.map",
+    "main.css": "/yeast-calc/static/css/main.66bc3407.chunk.css",
+    "main.js": "/yeast-calc/static/js/main.6ee0c30b.chunk.js",
+    "main.js.map": "/yeast-calc/static/js/main.6ee0c30b.chunk.js.map",
     "runtime-main.js": "/yeast-calc/static/js/runtime-main.f46a3fea.js",
     "runtime-main.js.map": "/yeast-calc/static/js/runtime-main.f46a3fea.js.map",
-    "static/js/2.106d5a90.chunk.js": "/yeast-calc/static/js/2.106d5a90.chunk.js",
-    "static/js/2.106d5a90.chunk.js.map": "/yeast-calc/static/js/2.106d5a90.chunk.js.map",
+    "static/js/2.c914b29a.chunk.js": "/yeast-calc/static/js/2.c914b29a.chunk.js",
+    "static/js/2.c914b29a.chunk.js.map": "/yeast-calc/static/js/2.c914b29a.chunk.js.map",
     "index.html": "/yeast-calc/index.html",
-    "precache-manifest.ead2ba7cedbce86ec40a928c717623ca.js": "/yeast-calc/precache-manifest.ead2ba7cedbce86ec40a928c717623ca.js",
+    "precache-manifest.1f18ea3fdfecb0291df65dca6d3aef86.js": "/yeast-calc/precache-manifest.1f18ea3fdfecb0291df65dca6d3aef86.js",
     "service-worker.js": "/yeast-calc/service-worker.js",
-    "static/css/main.ab70fcf0.chunk.css.map": "/yeast-calc/static/css/main.ab70fcf0.chunk.css.map",
-    "static/js/2.106d5a90.chunk.js.LICENSE.txt": "/yeast-calc/static/js/2.106d5a90.chunk.js.LICENSE.txt"
+    "static/css/main.66bc3407.chunk.css.map": "/yeast-calc/static/css/main.66bc3407.chunk.css.map",
+    "static/js/2.c914b29a.chunk.js.LICENSE.txt": "/yeast-calc/static/js/2.c914b29a.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.f46a3fea.js",
-    "static/js/2.106d5a90.chunk.js",
-    "static/css/main.ab70fcf0.chunk.css",
-    "static/js/main.747cd2a9.chunk.js"
+    "static/js/2.c914b29a.chunk.js",
+    "static/css/main.66bc3407.chunk.css",
+    "static/js/main.6ee0c30b.chunk.js"
   ]
 }

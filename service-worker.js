@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/yeast-calc/precache-manifest.ead2ba7cedbce86ec40a928c717623ca.js"
+  "/yeast-calc/precache-manifest.1f18ea3fdfecb0291df65dca6d3aef86.js"
 );
 
 self.addEventListener('message', (event) => {
