@@ -1,0 +1,64 @@
+@import "~bootstrap/scss/bootstrap";
+
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+
+#yeast-calc {
+.form-control {
+  margin: 15px;
+  text-align: center;
+}
+
+.row {
+  border: 1px solid black;
+
+.input {
+  background: yellow;
+}
+
+}
+
+.col {
+  border: 1px solid black;
+  display: flex;
+  flex-direction: column;
+
+.input {
+  background: yellow;
+}
+.topRow {
+  flex: auto;
+  display: inline;
+}
+
+
+}
+
+.input {
+  background: yellow;
+}
+
+.output {
+  background: lightblue;
+}
+
+.leftAnchor-col {
+  display: flex;
+  flex-direction: column;
+
+.row {
+  flex: 1;
+}
+}
+}

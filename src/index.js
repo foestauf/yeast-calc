@@ -1,12 +1,12 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
-import './index.css';
-import App from './App';
+import './index.scss';
 import * as serviceWorker from './serviceWorker';
+import YeastCalculator from "./App";
 
 ReactDOM.render(
   <React.StrictMode>
-    <App />
+    <YeastCalculator />
   </React.StrictMode>,
   document.getElementById('root')
 );
