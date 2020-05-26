@@ -198,9 +198,10 @@ const YeastCalculator = () => {
 }
 
 const InfoCell = (props) => {
-  function isNaN(n) {
-    if (n >= 0) {
-      return n
+  function isNaN(number) {
+      if (number == null) return
+    if (number >= 0) {
+      return number
     } else {
       return '-'
     }
